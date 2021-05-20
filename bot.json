@@ -1,0 +1,7 @@
+{
+    "main": "wordchain.js",
+    "option": {
+        "apiLevel": 1,
+        "useUnifiedParams": false,
+        "useBabel": false,
+      
